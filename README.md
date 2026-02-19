@@ -19,3 +19,4 @@ TIGR
 rina
 lox
 asan
+SHAMA
