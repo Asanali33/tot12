@@ -16,3 +16,4 @@ SALA
 olz
 SHAMA
 TIGR
+rina
